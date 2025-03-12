@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author deshm
- *
- */
-module CollectionPractice {
-}
